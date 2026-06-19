@@ -35,8 +35,6 @@ export default function HomePage() {
 
   return (
     <main id="home" className="page-shell">
-      <div className="top-pill" aria-hidden="true" />
-
       <section className="hero">
         <div className="hero-copy">
           <h1>Hi, I&apos;m Abdul Moiz</h1>
